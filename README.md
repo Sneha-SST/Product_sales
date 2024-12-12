@@ -1,4 +1,5 @@
 Product Sales Data Cleaning and Analysis
+
 This repository contains a hands-on exercise aimed at improving your data cleaning and analysis skills, bringing you one step closer to becoming a Data Analyst. The task involves cleaning, merging, and analyzing a dataset related to product sales using the product_sales.xlsx file, which contains three tables: Orders, Products, and Customer.
 
 Dataset Description
