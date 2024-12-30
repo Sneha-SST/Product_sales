@@ -1,8 +1,8 @@
-#Product Sales Data Cleaning and Analysis
+# Product Sales Data Cleaning and Analysis
 
 This repository contains a hands-on exercise aimed at improving your data cleaning and analysis skills, bringing you one step closer to becoming a Data Analyst. The task involves cleaning, merging, and analyzing a dataset related to product sales using the product_sales.xlsx file, which contains three tables: Orders, Products, and Customer.
 
-##Dataset Description
+## Dataset Description
 
 The product_sales.xlsx file includes the following tables:
 
@@ -18,9 +18,9 @@ Columns: product_id, product_name, nutritional information (calories, protein, c
 
 Columns: customer_id, customer_name
 
-##Tasks Overview
+## Tasks Overview
 
-###Task 1: Cleaning the Bad Data
+### Task 1: Cleaning the Bad Data
 
 1) Orders Table
 
@@ -49,7 +49,7 @@ Columns: customer_id, customer_name
 
 * Permanent Changes: Copy the cleaned names and paste them using 'Paste Special' -> 'Values'.
   
-###Task 2: Merging Data
+### Task 2: Merging Data
 
 1) Retrieve Customer Names:
 
@@ -66,9 +66,9 @@ Calculate Total Price:
 
 Add a new column, total_price, in the orders table to calculate the product of qty and price (in INR).
 
-##Getting Started
+## Getting Started
 
-###Prerequisites
+### Prerequisites
 
 To complete this exercise, you’ll need:
 
@@ -76,7 +76,7 @@ To complete this exercise, you’ll need:
 
 2) Basic understanding of data cleaning and Excel functions (TRIM, VLOOKUP, INDEX-MATCH, XLOOKUP).
 
-##Steps to Follow
+## Steps to Follow
 
 1) Open the product_sales.xlsx file in Excel.
 
@@ -86,7 +86,7 @@ To complete this exercise, you’ll need:
 
 4) Save the final cleaned and merged dataset for further analysis.
 
-##Outcome
+## Outcome
 After completing this exercise, you will have:
 
 * A cleaned and well-structured dataset ready for analysis.
